@@ -1,0 +1,23 @@
+{
+  "name": "fis3-deploy-filter-packaged-file",
+  "version": "1.0.0",
+  "description": "Filter files that have been packaged and do not deploy them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoyuze88/fis3-deploy-filter-packaged-file.git"
+  },
+  "keywords": [
+    "fis3,deploy,filter"
+  ],
+  "author": {
+    "name": "xiaoyuze88@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoyuze88/fis3-deploy-filter-packaged-file/issues"
+  }
+}
